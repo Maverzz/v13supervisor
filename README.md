@@ -1,4 +1,4 @@
-# v13supervisor
+# v13EKİPALL
 
 #25 starda paylaşıcam 
 
